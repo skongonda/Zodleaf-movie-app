@@ -1,6 +1,8 @@
 # Zodleaf-movie-app
 Movie info application built with vanilla JavaScript that uses version 3 of the TMDB API
 
+Deployed at Netlify: https://zodleaf-movie-app.netlify.app/
+
 This includes the most popular movies and TV shows with detail pages, a search box for movies and shows with full pagination and a slider for movies that are currently playing in theaters. The slider uses the Swiper library.
 
 ![image alt](https://github.com/skongonda/Zodleaf-movie-app/blob/fe28cfdca887ca31fc87f9309b5a37d6593d3182/images/screen.jpg)
